@@ -25,6 +25,7 @@ int main() {
             cout << "Congratulations! You guessed the number " << number << " in " << attempts << " attempts.\n";
         }
         attempts =+ 1;
+        cout << "natrah";
     }
 
     cout << "---------------------------------\n";
